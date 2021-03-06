@@ -258,7 +258,7 @@ def imageTest(imagePath):
 if __name__ == '__main__':
 
     imagePath = ['000000020247.jpg', '000000046804.jpg']
-    videoPath = 'test_video.mp4'
+    videoPath = 'test_video1.mp4'
 
     # imageTest(imagePath)
     videoTest(videoPath)
