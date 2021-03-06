@@ -1,3 +1,7 @@
+## 简介
+
+使用opencv部署训练好的yolact模型，在图像或视频上实现实例分割
+
 ## 环境
 
 ubuntu18.04；pycharm；anaconda
@@ -16,6 +20,6 @@ https://pan.baidu.com/s/1509Cn70a4iPS4UuCC4sduw
 
 ## 参考
 
-[]: https://github.com/hpc203/yolact-opencv-dnn-cpp-python
-[]: https://github.com/dbolya/yolact
+[1]: https://github.com/hpc203/yolact-opencv-dnn-cpp-python
+[2]: https://github.com/dbolya/yolact
 
